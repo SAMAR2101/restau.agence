@@ -1,0 +1,29 @@
+.hero {
+    background: url('hero-image.jpg') center/cover no-repeat;
+    height: 500px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  .hero button {
+    background-color: #d9534f;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+  }
+  .footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    text-align: center;
+  }
+  ul
+  {
+    width: 100%;
+    gap: 20px;
+  }
